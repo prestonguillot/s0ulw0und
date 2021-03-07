@@ -1,8 +1,0 @@
-irc.wcprfm.com Mon Nov 18 21:19:11 2002
-#WCPR 10 [+ntr] Welcome to WCPR Chat
-#WXRG 1 [+nt] 
-#q2 1 [+ntr] 
-#TheMonkey 1 [+nt] 
-#Empire 2 [+ntr] Veterans of Phantasy Star Online
-#SnicKitti 1 [+ntr] Me
-#ops 1 [+ntrk] Triad Operator's Domain
